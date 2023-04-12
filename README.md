@@ -1,3 +1,1 @@
-# Node
-
-Chan_One
+# Solidity smart contract for Ethereum, integrated with a bot
